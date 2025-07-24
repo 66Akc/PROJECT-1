@@ -1,0 +1,14 @@
+#footer {
+    /* background: #ff0000; */
+    color: #222;
+    padding: 18px 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+#footer p {
+    text-align: center;
+}
